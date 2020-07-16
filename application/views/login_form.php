@@ -15,7 +15,7 @@
         <div class="container" >
         <div class="row justify-content-md-center">
             <div class="col-sm-6 " >
-                <form class="border" style="margin-top: 200px; padding: 30px;" method="post" action="Test_controller/test_sess">
+                <form class="border" style="margin-top: 200px; padding: 30px;" method="post" action="User_controller/login">
                     <h3 align="center" style="margin-bottom: 20px; color: ">AD Setting </h3>
                     <div class="form-group">
                         <label for="Email">Email address</label>
