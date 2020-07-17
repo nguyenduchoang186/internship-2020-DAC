@@ -37,7 +37,7 @@ class User_controller extends CI_Controller {
 			$this->session->set_userdata('numofad', $data['0']['num_of_ad']);
 			$this->session->set_userdata('role', $data['0']['role']);
 
-			redirect('User_controller/home');
+			redirect('home');
 		}
 		else {
 			redirect(base_url());
