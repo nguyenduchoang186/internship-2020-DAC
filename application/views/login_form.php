@@ -11,11 +11,11 @@
     <title>Login</title>
   </head>
   <body>
-    <div style="background:#e5e5e5; overflow: hidden; " >
+    <div style="background:#e5e5e5; overflow: hidden; height: 1080px; " >
         <div class="container" >
         <div class="row justify-content-md-center">
             <div class="col-sm-6 " >
-                <form class="border" style="margin-top: 200px; padding: 30px;" method="post" action="User_controller/login">
+                <form class="border" style="margin-top: 200px; padding: 30px; background: #ffff; border-radius: 4px;" method="post" action="User_controller/login">
                     <h3 align="center" style="margin-bottom: 20px; color: ">AD Setting </h3>
                     <div class="form-group">
                         <label for="Email">Email address</label>
