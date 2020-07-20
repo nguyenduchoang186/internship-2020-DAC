@@ -23,7 +23,7 @@
                         <label for="Password">Password</label>
                         <input type="password" name="password" class="form-control" id="Password" placeholder="Password">
                     </div>
-                    <div class="text-center">
+                    <div class="text-center" style="margin-bottom: 15px">
                         <button type="submit" class="btn btn-success btn-lg col-sm-5" style="text-align: center; ">Login</button>
                     </div>
                     <div>
